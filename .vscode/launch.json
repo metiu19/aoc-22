@@ -11,8 +11,8 @@
 			"skipFiles": [
 				"<node_internals>/**"
 			],
-			"program": "${workspaceFolder}\\Day-04\\part-2.js",
-			"args": ["${workspaceFolder}\\Day-04\\inputTest.txt"]
+			"program": "${workspaceFolder}\\Day-05\\part-2.js",
+			"args": ["${workspaceFolder}\\Day-05\\inputTest.txt"]
 		}
 	]
 }
